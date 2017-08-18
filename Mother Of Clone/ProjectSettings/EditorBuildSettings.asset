@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: d44c786c755f8384ab7ea79e5f5ea4d1
+  - enabled: 1
+    path: Assets/Scenes/2Cars.unity
+    guid: 3a9176b0d3889b343b18162f09348b11
+  - enabled: 1
+    path: Assets/Scenes/MonsterEatsFood.unity
+    guid: 42508c5983da5434b83028e2093470cb
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: a3fbcab271a68dd4ca81076c208f7ad9
+  - enabled: 1
+    path: Assets/Scenes/Game 3.unity
+    guid: 6e7eb0669bd8341408e6d05a018e1b8d
